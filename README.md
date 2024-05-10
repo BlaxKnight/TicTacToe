@@ -1,2 +1,2 @@
 # TicTacToe
-A Simple TicTacToe C++ Game
+A Simple CLI TicTacToe C++ Game
